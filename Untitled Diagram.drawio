@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T16:31:02.681Z" agent="5.0 (Windows)" etag="j8RFRyTVQQTcQPCYLDWD" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-09T16:32:43.476Z" agent="5.0 (Windows)" etag="WwD_6xHGRfeO_5SXaf8-" version="14.0.0" type="github">
   <diagram id="q4SeS_c-BJB0oOPyV-7m" name="Page-1">
-    <mxGraphModel dx="9" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="697" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <object label="" Author="myself" DocRef="###XXX###" id="0">
           <mxCell />
@@ -8,7 +8,7 @@
         <mxCell id="1" parent="0" />
         <object label="" placeholders="1" id="7oKiPROpSnteBDAmTKtN-1">
           <mxCell style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;sketch=0;shadow=1;swimlaneFillColor=#FFFFFF;" parent="1" vertex="1">
-            <mxGeometry x="1070" y="305" width="570" height="110" as="geometry" />
+            <mxGeometry x="360" y="180" width="570" height="110" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="7oKiPROpSnteBDAmTKtN-2" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="7oKiPROpSnteBDAmTKtN-1" vertex="1">
@@ -67,25 +67,25 @@
         </object>
         <object label="&lt;table style=&quot;width: 100% ; height: 100% ; border-collapse: collapse&quot; width=&quot;100%&quot; cellpadding=&quot;4&quot; border=&quot;1&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;b&gt;some project&lt;/b&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;%DocRef%&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;%date%&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" placeholders="1" id="yizH5Jb1sns2sNq7klML-1">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;overflow=fill;" vertex="1" parent="1">
-            <mxGeometry x="1090" y="560" width="550" height="100" as="geometry" />
+            <mxGeometry x="380" y="435" width="550" height="100" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="yizH5Jb1sns2sNq7klML-2" value="Place holders work" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="850" y="350" width="150" height="20" as="geometry" />
+          <mxGeometry x="140" y="225" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yizH5Jb1sns2sNq7klML-3" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yizH5Jb1sns2sNq7klML-2" target="7oKiPROpSnteBDAmTKtN-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1230" y="580" as="sourcePoint" />
-            <mxPoint x="1280" y="530" as="targetPoint" />
+            <mxPoint x="520" y="455" as="sourcePoint" />
+            <mxPoint x="570" y="405" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yizH5Jb1sns2sNq7klML-4" value="Place holders don&#39;t work" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="600" width="150" height="20" as="geometry" />
+          <mxGeometry x="130" y="475" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yizH5Jb1sns2sNq7klML-5" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yizH5Jb1sns2sNq7klML-4" target="yizH5Jb1sns2sNq7klML-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1000" y="360" as="sourcePoint" />
-            <mxPoint x="1070" y="360" as="targetPoint" />
+            <mxPoint x="290" y="235" as="sourcePoint" />
+            <mxPoint x="360" y="235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
