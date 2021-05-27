@@ -1,0 +1,1664 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.47052,
+          20.03832
+        ]
+      },
+      "properties": {
+        "name": "North ubhar?",
+        "name:ar": "اجر الشمالية",
+        "ID": "01001",
+        "City": "Al Baha",
+        "type": "F",
+        "region": "Western",
+        "region:ar": "المنطقة الغربية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.5826,
+          16.89677
+        ]
+      },
+      "properties": {
+        "name": "Jizan AQ1",
+        "name:ar": "",
+        "ID": "01002",
+        "City": "Jizan",
+        "type": "F",
+        "region": "Western",
+        "region:ar": "المنطقة الغربية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.20628,
+          21.52467
+        ]
+      },
+      "properties": {
+        "name": "Bani-Malik",
+        "name:ar": "بني مالك",
+        "ID": "01003",
+        "City": "Jeddah",
+        "type": "F",
+        "region": "Western",
+        "region:ar": "المنطقة الغربية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.17334,
+          21.5661
+        ]
+      },
+      "properties": {
+        "name": "Stadium (Rawdah)",
+        "name:ar": "الملعب الرياضي(الروضة)",
+        "ID": "01004",
+        "City": "Jeddah",
+        "type": "F",
+        "region": "Western",
+        "region:ar": "المنطقة الغربية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.96017,
+          29.35521
+        ]
+      },
+      "properties": {
+        "name": "Haql",
+        "name:ar": "حقل",
+        "ID": "01005",
+        "City": "Tabuk",
+        "type": "F",
+        "region": "Western",
+        "region:ar": "المنطقة الغربية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.79904,
+          23.78328
+        ]
+      },
+      "properties": {
+        "name": "Badr",
+        "name:ar": "بدر",
+        "ID": "01006",
+        "City": "Badr Hunayn",
+        "type": "F",
+        "region": "Western",
+        "region:ar": "المنطقة الغربية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.82898,
+          21.42466
+        ]
+      },
+      "properties": {
+        "name": "AlHaram",
+        "name:ar": "الحرم",
+        "ID": "01007",
+        "City": "Mecca",
+        "type": "F",
+        "region": "Western",
+        "region:ar": "المنطقة الغربية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.62487,
+          24.47237
+        ]
+      },
+      "properties": {
+        "name": "Mobile n° 627",
+        "name:ar": "خطة متنقلة 627",
+        "ID": "01008",
+        "City": "Madina",
+        "type": "M",
+        "region": "Western",
+        "region:ar": "المنطقة الغربية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.72233,
+          24.64493
+        ]
+      },
+      "properties": {
+        "name": "AlGhurabi",
+        "name:ar": "الغرابي",
+        "ID": "02001",
+        "City": "Riyadh",
+        "type": "F",
+        "region": "Central",
+        "region:ar": "المنطقة الوسطي",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.76401,
+          24.61576
+        ]
+      },
+      "properties": {
+        "name": "AlKhaldia",
+        "name:ar": "الخالدية",
+        "ID": "02002",
+        "City": "Riyadh",
+        "type": "F",
+        "region": "Central",
+        "region:ar": "المنطقة الوسطي",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.66063,
+          24.75228
+        ]
+      },
+      "properties": {
+        "name": "AlMuruj",
+        "name:ar": "المروج",
+        "ID": "02003",
+        "City": "Riyadh",
+        "type": "F",
+        "region": "Central",
+        "region:ar": "المنطقة الوسطي",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.72064,
+          24.67761
+        ]
+      },
+      "properties": {
+        "name": "AlDubat",
+        "name:ar": "الضباط",
+        "ID": "02004",
+        "City": "Riyadh",
+        "type": "F",
+        "region": "Central",
+        "region:ar": "المنطقة الوسطي",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.70502,
+          24.76671
+        ]
+      },
+      "properties": {
+        "name": "AlTawuniya",
+        "name:ar": "",
+        "ID": "02005",
+        "City": "Riyadh",
+        "type": "F",
+        "region": "Central",
+        "region:ar": "المنطقة الوسطي",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.69618,
+          24.68008
+        ]
+      },
+      "properties": {
+        "name": "AlJazeera",
+        "name:ar": "",
+        "ID": "02006",
+        "City": "Riyadh",
+        "type": "F",
+        "region": "Central",
+        "region:ar": "المنطقة الوسطي",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.78284,
+          24.69123
+        ]
+      },
+      "properties": {
+        "name": "AlRawabi",
+        "name:ar": "",
+        "ID": "02007",
+        "City": "Riyadh",
+        "type": "F",
+        "region": "Central",
+        "region:ar": "المنطقة الوسطي",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.58573,
+          24.58062
+        ]
+      },
+      "properties": {
+        "name": "AlAreej",
+        "name:ar": "",
+        "ID": "02008",
+        "City": "Riyadh",
+        "type": "F",
+        "region": "Central",
+        "region:ar": "المنطقة الوسطي",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.69707,
+          24.63117
+        ]
+      },
+      "properties": {
+        "name": "AlShamisi",
+        "name:ar": "",
+        "ID": "02009",
+        "City": "Riyadh",
+        "type": "F",
+        "region": "Central",
+        "region:ar": "المنطقة الوسطي",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7925,
+          24.77459
+        ]
+      },
+      "properties": {
+        "name": "AlKhaleej",
+        "name:ar": "",
+        "ID": "02010",
+        "City": "Riyadh",
+        "type": "F",
+        "region": "Central",
+        "region:ar": "المنطقة الوسطي",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2979,
+          25.0508
+        ]
+      },
+      "properties": {
+        "name": "Mobile n° 1674",
+        "name:ar": "خطة متنقلة 1674",
+        "ID": "02011",
+        "City": "Umlajh",
+        "type": "M",
+        "region": "Central",
+        "region:ar": "المنطقة الوسطي",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.46294,
+          18.23802
+        ]
+      },
+      "properties": {
+        "name": "Mobile n° 1673",
+        "name:ar": "خطة متنقلة 1673",
+        "ID": "02012",
+        "City": "Aseer",
+        "type": "M",
+        "region": "Central",
+        "region:ar": "المنطقة الوسطي",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.02419,
+          26.29
+        ]
+      },
+      "properties": {
+        "name": "Mobile n° 2827",
+        "name:ar": "خطة متنقلة 2827",
+        "ID": "02013",
+        "City": "Dammam",
+        "type": "M",
+        "region": "Central",
+        "region:ar": "المنطقة الوسطي",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.17725,
+          26.39736
+        ]
+      },
+      "properties": {
+        "name": "Mobile n° 1672",
+        "name:ar": "خطة متنقلة 1672",
+        "ID": "02014",
+        "City": "Eastern Region Branch",
+        "type": "M",
+        "region": "Eastern",
+        "region:ar": "المنطقة الوسطي",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.13683,
+          26.49106
+        ]
+      },
+      "properties": {
+        "name": "AlKornish",
+        "name:ar": "",
+        "ID": "03001",
+        "City": "Dammam",
+        "type": "F",
+        "region": "Eastern",
+        "region:ar": "المنطقة الشرقية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.13947,
+          26.40056
+        ]
+      },
+      "properties": {
+        "name": "AlSunaeya 1",
+        "name:ar": "",
+        "ID": "03002",
+        "City": "Dammam",
+        "type": "F",
+        "region": "Eastern",
+        "region:ar": "المنطقة الشرقية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.97725,
+          26.26078
+        ]
+      },
+      "properties": {
+        "name": "AlSunaeya 2",
+        "name:ar": "",
+        "ID": "03003",
+        "City": "Dammam",
+        "type": "F",
+        "region": "Eastern",
+        "region:ar": "المنطقة الشرقية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.19756,
+          26.21832
+        ]
+      },
+      "properties": {
+        "name": "Khobar",
+        "name:ar": "",
+        "ID": "03004",
+        "City": "Khobar",
+        "type": "F",
+        "region": "Eastern",
+        "region:ar": "المنطقة الشرقية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.54914,
+          25.62197
+        ]
+      },
+      "properties": {
+        "name": "Al Hasa, Oyun Industrial",
+        "name:ar": "",
+        "ID": "03005",
+        "City": "Ahsa",
+        "type": "F",
+        "region": "Eastern",
+        "region:ar": "المنطقة الشرقية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.64447,
+          25.30078
+        ]
+      },
+      "properties": {
+        "name": "Al Hasa, Oyun International highway",
+        "name:ar": "",
+        "ID": "03006",
+        "City": "Ahsa",
+        "type": "F",
+        "region": "Eastern",
+        "region:ar": "المنطقة الشرقية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.00925,
+          26.57469
+        ]
+      },
+      "properties": {
+        "name": "Qatif, AnNazira park",
+        "name:ar": "",
+        "ID": "03007",
+        "City": "Qatif",
+        "type": "F",
+        "region": "Eastern",
+        "region:ar": "المنطقة الشرقية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.17725,
+          26.39736
+        ]
+      },
+      "properties": {
+        "name": "Rakah, PME Office",
+        "name:ar": "",
+        "ID": "03008",
+        "City": "Khobar",
+        "type": "F",
+        "region": "Eastern",
+        "region:ar": "المنطقة الشرقية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.72293,
+          24.92521
+        ]
+      },
+      "properties": {
+        "name": "Mobile n° 1671",
+        "name:ar": "خطة متنقلة 1671",
+        "ID": "03009",
+        "City": "Riyadh",
+        "type": "M",
+        "region": "Eastern",
+        "region:ar": "المنطقة الشرقية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.75705,
+          24.76882
+        ]
+      },
+      "properties": {
+        "name": "Mobile n° 1670",
+        "name:ar": "خطة متنقلة 1670",
+        "ID": "03010",
+        "City": "Riyadh",
+        "type": "M",
+        "region": "Eastern",
+        "region:ar": "المنطقة الشرقية",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.79339,
+          21.50847
+        ]
+      },
+      "properties": {
+        "name": "AlOmra",
+        "name:ar": "",
+        "ID": "04001",
+        "City": "Mecca",
+        "type": "F",
+        "region": "Makka",
+        "region:ar": "مكة المكرمة",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.93687,
+          21.48163
+        ]
+      },
+      "properties": {
+        "name": "AlSharaye",
+        "name:ar": "",
+        "ID": "04002",
+        "City": "Mecca",
+        "type": "F",
+        "region": "Makka",
+        "region:ar": "مكة المكرمة",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.80747,
+          21.36589
+        ]
+      },
+      "properties": {
+        "name": "AlShawqiah",
+        "name:ar": "",
+        "ID": "04003",
+        "City": "Mecca",
+        "type": "F",
+        "region": "Makka",
+        "region:ar": "مكة المكرمة",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.81189,
+          21.44222
+        ]
+      },
+      "properties": {
+        "name": "AlEtebiah",
+        "name:ar": "",
+        "ID": "04004",
+        "City": "Mecca",
+        "type": "F",
+        "region": "Makka",
+        "region:ar": "مكة المكرمة",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.87837,
+          21.40377
+        ]
+      },
+      "properties": {
+        "name": "AlAzeziah",
+        "name:ar": "",
+        "ID": "04005",
+        "City": "Mecca",
+        "type": "F",
+        "region": "Makka",
+        "region:ar": "مكة المكرمة",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.45486,
+          21.27192
+        ]
+      },
+      "properties": {
+        "name": "AlTaif",
+        "name:ar": "",
+        "ID": "04006",
+        "City": "Taif",
+        "type": "F",
+        "region": "Makka",
+        "region:ar": "مكة المكرمة",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.20309,
+          21.52467
+        ]
+      },
+      "properties": {
+        "name": "Mobile n° 5476",
+        "name:ar": "",
+        "ID": "04007",
+        "City": "Jeddah",
+        "type": "M",
+        "region": "Makka",
+        "region:ar": "مكة المكرمة",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.43741,
+          23.86236
+        ]
+      },
+      "properties": {
+        "name": "Yanbu road km 50",
+        "name:ar": "",
+        "ID": "05001",
+        "City": "Yanbu",
+        "type": "F",
+        "region": "Madina",
+        "region:ar": "المدينة المنورة  ",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.54611,
+          24.29786
+        ]
+      },
+      "properties": {
+        "name": "Industrial Madina",
+        "name:ar": "",
+        "ID": "05002",
+        "City": "Madina",
+        "type": "F",
+        "region": "Madina",
+        "region:ar": "المدينة المنورة  ",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.88967,
+          23.50489
+        ]
+      },
+      "properties": {
+        "name": "Mahad AlDhahab",
+        "name:ar": "",
+        "ID": "05003",
+        "City": "Madina",
+        "type": "F",
+        "region": "Madina",
+        "region:ar": "المدينة المنورة  ",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.35714,
+          18.29481
+        ]
+      },
+      "properties": {
+        "name": "AlSawda mountain",
+        "name:ar": "",
+        "ID": "05004",
+        "City": "Abha",
+        "type": "F",
+        "region": "Abha",
+        "region:ar": "المدينة المنورة  ",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.48917,
+          18.214
+        ]
+      },
+      "properties": {
+        "name": "Garden of AlSadd mountain",
+        "name:ar": "",
+        "ID": "05005",
+        "City": "Abha",
+        "type": "F",
+        "region": "Abha",
+        "region:ar": "المدينة المنورة  ",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.20345,
+          23.97439
+        ]
+      },
+      "properties": {
+        "name": "Mobile n° 3399",
+        "name:ar": "",
+        "ID": "05006",
+        "City": "Yanbu",
+        "type": "M",
+        "region": "Madina",
+        "region:ar": "المدينة المنورة  ",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.08481,
+          29.15944
+        ]
+      },
+      "properties": {
+        "name": "Halat Ammar",
+        "name:ar": "",
+        "ID": "06001",
+        "City": "Tabuk",
+        "type": "F",
+        "region": "Tabuk",
+        "region:ar": "تبوك",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.60738,
+          28.37651
+        ]
+      },
+      "properties": {
+        "name": "Tabuk",
+        "name:ar": "تبوك",
+        "ID": "06002",
+        "City": "Tabuk",
+        "type": "F",
+        "region": "Tabuk",
+        "region:ar": "تبوك",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.54381,
+          27.61164
+        ]
+      },
+      "properties": {
+        "name": "Tema",
+        "name:ar": "",
+        "ID": "06003",
+        "City": "Tabuk",
+        "type": "F",
+        "region": "Tabuk",
+        "region:ar": "تبوك",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.685,
+          27.35114
+        ]
+      },
+      "properties": {
+        "name": "Diba",
+        "name:ar": "",
+        "ID": "06004",
+        "City": "Tabuk",
+        "type": "F",
+        "region": "Tabuk",
+        "region:ar": "تبوك",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.45494,
+          26.24983
+        ]
+      },
+      "properties": {
+        "name": "AlWajh",
+        "name:ar": "",
+        "ID": "06005",
+        "City": "Tabuk",
+        "type": "F",
+        "region": "Tabuk",
+        "region:ar": "تبوك",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.26878,
+          25.0175
+        ]
+      },
+      "properties": {
+        "name": "Umlej",
+        "name:ar": "",
+        "ID": "06006",
+        "City": "Tabuk",
+        "type": "F",
+        "region": "Tabuk",
+        "region:ar": "تبوك",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.65674,
+          31.67171
+        ]
+      },
+      "properties": {
+        "name": "Mobile n° 5477",
+        "name:ar": "",
+        "ID": "06007",
+        "City": "Turaif",
+        "type": "M",
+        "region": "Tabuk",
+        "region:ar": "تبوك",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.86772,
+          26.30447
+        ]
+      },
+      "properties": {
+        "name": "AlBussarh",
+        "name:ar": "",
+        "ID": "07001",
+        "City": "Buraydah",
+        "type": "F",
+        "region": "Qassim",
+        "region:ar": "القصيم",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.96183,
+          26.33964
+        ]
+      },
+      "properties": {
+        "name": "Hadika baladia (Amleyat)",
+        "name:ar": "",
+        "ID": "07002",
+        "City": "Buraydah",
+        "type": "F",
+        "region": "Qassim",
+        "region:ar": "القصيم",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.01614,
+          26.38647
+        ]
+      },
+      "properties": {
+        "name": "King Abdullah garden",
+        "name:ar": "",
+        "ID": "07003",
+        "City": "Najran",
+        "type": "F",
+        "region": "Qassim",
+        "region:ar": "القصيم",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.94833,
+          26.38178
+        ]
+      },
+      "properties": {
+        "name": "Stadium",
+        "name:ar": "",
+        "ID": "07004",
+        "City": "Buraydah",
+        "type": "F",
+        "region": "Qassim",
+        "region:ar": "القصيم",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.99222,
+          26.09431
+        ]
+      },
+      "properties": {
+        "name": "Unaiza garden",
+        "name:ar": "",
+        "ID": "07005",
+        "City": "Onaizah",
+        "type": "F",
+        "region": "Qassim",
+        "region:ar": "القصيم",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.03561,
+          26.32125
+        ]
+      },
+      "properties": {
+        "name": "Zahi garden",
+        "name:ar": "",
+        "ID": "07006",
+        "City": "Buraydah",
+        "type": "F",
+        "region": "Qassim",
+        "region:ar": "القصيم",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.63542,
+          26.49983
+        ]
+      },
+      "properties": {
+        "name": "Oyun al Jwa’a",
+        "name:ar": "",
+        "ID": "07007",
+        "City": "Buraydah",
+        "type": "F",
+        "region": "Qassim",
+        "region:ar": "القصيم",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4904,
+          25.87573
+        ]
+      },
+      "properties": {
+        "name": "Mobile n° 4803",
+        "name:ar": "خطة متنقلة 4803",
+        "ID": "07008",
+        "City": "Al-Rass Municipality",
+        "type": "M",
+        "region": "Qassim",
+        "region:ar": "القصيم",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.00247,
+          27.45819
+        ]
+      },
+      "properties": {
+        "name": "Ireja'a centre",
+        "name:ar": "",
+        "ID": "08001",
+        "City": "New Arar",
+        "type": "F",
+        "region": "Northern",
+        "region:ar": "حائل",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.7335,
+          27.47081
+        ]
+      },
+      "properties": {
+        "name": "Behind Mazda show",
+        "name:ar": "",
+        "ID": "08002",
+        "City": "Skaka",
+        "type": "F",
+        "region": "AlJawf",
+        "region:ar": "حائل",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.72261,
+          27.48092
+        ]
+      },
+      "properties": {
+        "name": "Industrial municipality workshop",
+        "name:ar": "",
+        "ID": "08003",
+        "City": "Hail",
+        "type": "F",
+        "region": "Hail",
+        "region:ar": "حائل",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.72261,
+          27.48092
+        ]
+      },
+      "properties": {
+        "name": "Zaitun garden",
+        "name:ar": "",
+        "ID": "08004",
+        "City": "Qaryat",
+        "type": "F",
+        "region": "AlJawf",
+        "region:ar": "حائل",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.31753,
+          26.81269
+        ]
+      },
+      "properties": {
+        "name": "Baladia al Ghazalah",
+        "name:ar": "",
+        "ID": "08005",
+        "City": "Hail",
+        "type": "F",
+        "region": "Hail",
+        "region:ar": "حائل",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.3645,
+          27.91325
+        ]
+      },
+      "properties": {
+        "name": "Baladia al Balga'a",
+        "name:ar": "",
+        "ID": "08006",
+        "City": "Hail",
+        "type": "F",
+        "region": "Hail",
+        "region:ar": "حائل",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.64136,
+          27.51536
+        ]
+      },
+      "properties": {
+        "name": "Al Hassoun garden",
+        "name:ar": "",
+        "ID": "08007",
+        "City": "AlUla",
+        "type": "F",
+        "region": "Hail",
+        "region:ar": "حائل",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.00455,
+          30.92851
+        ]
+      },
+      "properties": {
+        "name": "Mobile n° 5478",
+        "name:ar": "خطة متنقلة 5478",
+        "ID": "08008",
+        "City": "Arar northern borders",
+        "type": "M",
+        "region": "Hail",
+        "region:ar": "حائل",
+        "parameters": "CO, NOx, PM10, SO2, O3, NH3, H2S, VOC, HC, meteo",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.11963,
+          21.91642
+        ]
+      },
+      "properties": {
+        "name": "Dhaban",
+        "name:ar": "",
+        "ID": "09001",
+        "City": "Jeddah",
+        "type": "F",
+        "region": "Jeddah",
+        "region:ar": "محطات السيول",
+        "parameters": "HC, VOC, H2S/SO2, NH3",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.18259,
+          21.58665
+        ]
+      },
+      "properties": {
+        "name": "Baldiyah Matar",
+        "name:ar": "",
+        "ID": "09007",
+        "City": "Jeddah",
+        "type": "F",
+        "region": "Jeddah",
+        "region:ar": "محطات السيول",
+        "parameters": "HC, VOC, H2S/SO2, NH3",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.26735,
+          21.47092
+        ]
+      },
+      "properties": {
+        "name": "Jamah",
+        "name:ar": "",
+        "ID": "09009",
+        "City": "Jeddah",
+        "type": "F",
+        "region": "Jeddah",
+        "region:ar": "محطات السيول",
+        "parameters": "HC, VOC, H2S/SO2, NH3",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.22756,
+          21.41774
+        ]
+      },
+      "properties": {
+        "name": "Khumrah",
+        "name:ar": "خمرة",
+        "ID": "09008",
+        "City": "Jeddah",
+        "type": "F",
+        "region": "Jeddah",
+        "region:ar": "محطات السيول",
+        "parameters": "HC, VOC, H2S/SO2, NH3",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.11914,
+          21.67643
+        ]
+      },
+      "properties": {
+        "name": "Obhur",
+        "name:ar": "",
+        "ID": "09003",
+        "City": "Jeddah",
+        "type": "F",
+        "region": "Jeddah",
+        "region:ar": "محطات السيول",
+        "parameters": "HC, VOC, NH3",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.18533,
+          21.47769
+        ]
+      },
+      "properties": {
+        "name": "Baldiyah Balad",
+        "name:ar": "",
+        "ID": "09005",
+        "City": "Jeddah",
+        "type": "F",
+        "region": "Jeddah",
+        "region:ar": "محطات السيول",
+        "parameters": "HC, VOC, NH3",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.24861,
+          21.60731
+        ]
+      },
+      "properties": {
+        "name": "Breiman",
+        "name:ar": "",
+        "ID": "09002",
+        "City": "Jeddah",
+        "type": "F",
+        "region": "Jeddah",
+        "region:ar": "محطات السيول",
+        "parameters": "HC, VOC, NH3",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.14549,
+          21.55731
+        ]
+      },
+      "properties": {
+        "name": "Baldiyah Rawadh",
+        "name:ar": "",
+        "ID": "09006",
+        "City": "Jeddah",
+        "type": "F",
+        "region": "Jeddah",
+        "region:ar": "محطات السيول",
+        "parameters": "HC, VOC, NH3",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.23848,
+          21.55934
+        ]
+      },
+      "properties": {
+        "name": "SGS",
+        "name:ar": "",
+        "ID": "09004",
+        "City": "Jeddah",
+        "type": "F",
+        "region": "Jeddah",
+        "region:ar": "محطات السيول",
+        "parameters": "HC, VOC, NH3",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.31504,
+          21.45018
+        ]
+      },
+      "properties": {
+        "name": "Um as Salaam, water plant",
+        "name:ar": "",
+        "ID": "09010",
+        "City": "Rabigh",
+        "type": "F",
+        "region": "Jeddah",
+        "region:ar": "محطات السيول",
+        "parameters": "HC, VOC, NH3",
+        "marker-color": "#008000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.86677,
+          29.80611
+        ]
+      },
+      "properties": {
+        "name": "Mobile n° 7019",
+        "name:ar": "خطة متنقلة 7019",
+        "ID": "01009",
+        "City": "Dumt Aljandal",
+        "type": "M",
+        "region": "AlJawf",
+        "region:ar": "?",
+        "parameters": "",
+        "marker-color": "#008000"
+      }
+    }
+  ]
+}
